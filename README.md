@@ -1,5 +1,5 @@
 # graduation_project
-These are things that we have to consider to build this projects.
+Followings are things that we have to consider to build this projects.
 
 ##**RESTful API Design**
 This is because it is hard to modify kernel or router's IP stack code. So, we use RESTful API as a CDN.
